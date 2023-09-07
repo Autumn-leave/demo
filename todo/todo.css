@@ -1,0 +1,36 @@
+body{
+    margin: 10% 30%;
+    background-image: url('https://plus.unsplash.com/premium_photo-1671119417406-0322aa77a09c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c3BsYXNoJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content-0{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 3% !important;
+    width: 100% !important;
+}
+.content-0 h3{
+    width: 35% !important;
+}
+
+.content-0 .se{
+    height: 3% !important;
+    width: 35% !important;
+}
+
+ul{
+    width: 100%;
+
+}
+.styl{
+    display: flex;
+   justify-content: space-between;
+    gap : 10px;
+}
+.span{
+    width: 70px;
+    text-align: center;
+    padding-top: 1%;
+}
